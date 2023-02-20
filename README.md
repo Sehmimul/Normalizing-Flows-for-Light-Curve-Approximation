@@ -1,18 +1,11 @@
-# Final_Project - Group 5
-# Supernovae Classification by Light Curve Approximation
+# Normalizing Flows for Light Curve Approximation
 
 ### Collaborators:
-- name: Vishnu Mugundan
-- student ID: 20823106
 
-- name: Maimouna Sow
-- student ID: 20822614
-
-- name: Sehmimul Hoque
-- student ID: 20814946
-
-- name: Siddhardha Penmetsa
-- student ID: 20924945
+- Sehmimul Hoque
+- Vishnu Mugundan
+- Maimouna Sow
+- Siddhardha Penmetsa
 
 ## Install Dependencies
 
